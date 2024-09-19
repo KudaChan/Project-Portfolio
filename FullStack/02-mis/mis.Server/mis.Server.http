@@ -1,0 +1,6 @@
+@mis.Server_HostAddress = http://localhost:5108
+
+GET {{mis.Server_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

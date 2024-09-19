@@ -1,0 +1,23 @@
+{
+  "Version": 1,
+  "Hash": "jryraLjzHIGjsH+3f2zK/4rtKOqxdoZ18H9egcvgsA4=",
+  "Source": "mis.Server",
+  "BasePath": "_content/mis.Server",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [
+    {
+      "Identity": "L:\\Work\\Projects\\02-mis\\mis.client\\mis.client.esproj",
+      "Version": 2,
+      "Source": "mis.client",
+      "GetPublishAssetsTargets": "GetCurrentProjectPublishStaticWebAssetItems",
+      "AdditionalPublishProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalPublishPropertiesToRemove": "WebPublishProfileFile;TargetFramework;RuntimeIdentifier;SelfContained",
+      "GetBuildAssetsTargets": "GetCurrentProjectBuildStaticWebAssetItems",
+      "AdditionalBuildProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalBuildPropertiesToRemove": "WebPublishProfileFile;TargetFramework;RuntimeIdentifier;SelfContained"
+    }
+  ],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

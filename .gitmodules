@@ -1,0 +1,9 @@
+[submodule "Frontend/01-apple_web"]
+	path = Frontend/01-apple_web
+	url = https://github.com/KudaChan/web-Apple-Clone
+[submodule "Frontend/02-nike_website"]
+	path = Frontend/02-nike_website
+	url = https://github.com/KudaChan/web-nike-clone
+[submodule "FullStack/01-slow_life_ecommerse"]
+	path = FullStack/01-slow_life_ecommerse
+	url = https://github.com/KudaChan/slowlife-ecommerse
