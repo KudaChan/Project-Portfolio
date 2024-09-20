@@ -7,3 +7,6 @@
 [submodule "FullStack/01-slow_life_ecommerse"]
 	path = FullStack/01-slow_life_ecommerse
 	url = https://github.com/KudaChan/slowlife-ecommerse
+[submodule "project-00"]
+	path = project-00
+	url = https://github.com/KudaChan/project-00

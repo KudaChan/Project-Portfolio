@@ -1,0 +1,14 @@
+{
+  "name": "00-academic",
+  "version": "1.0.0",
+  "description": "Learing Blockchain by cosing",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "Chandan Kumar",
+  "license": "ISC",
+  "devDependencies": {
+    "hardhat": "^2.3.3"
+  }
+}
