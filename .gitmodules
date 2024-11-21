@@ -16,3 +16,6 @@
 [submodule "FullStack/02-MIS"]
 	path = FullStack/02-MIS
 	url = https://github.com/KudaChan/Information-Mangament-System.git
+[submodule "Blockchain/Project/01_major_project"]
+	path = Blockchain/Project/01_major_project
+	url = https://github.com/KudaChan/Major-Project.git
