@@ -13,3 +13,6 @@
 [submodule "FullStact/02-MIS"]
 	path = FullStact/02-MIS
 	url = https://github.com/KudaChan/Information-Mangament-System.git
+[submodule "FullStack/02-MIS"]
+	path = FullStack/02-MIS
+	url = https://github.com/KudaChan/Information-Mangament-System.git
