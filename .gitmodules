@@ -16,3 +16,6 @@
 [submodule "Blockchain/Project/01_major_project"]
 	path = Blockchain/Project/01_major_project
 	url = https://github.com/KudaChan/Major-Project.git
+[submodule "01-PersonalWeb"]
+	path = 01-PersonalWeb
+	url = https://github.com/KudaChan/MyWebPortfolio.git
