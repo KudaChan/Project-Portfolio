@@ -19,3 +19,6 @@
 [submodule "01-PersonalWeb"]
 	path = 01-PersonalWeb
 	url = https://github.com/KudaChan/MyWebPortfolio.git
+[submodule "02-Herb_ai"]
+	path = 02-Herb_ai
+	url = https://github.com/KudaChan/herb_ai
