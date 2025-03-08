@@ -22,3 +22,6 @@
 [submodule "02-Herb_ai"]
 	path = 02-Herb_ai
 	url = https://github.com/KudaChan/herb_ai
+[submodule "03-Polling_System"]
+	path = 03-Polling_System
+	url = https://github.com/KudaChan/Polling_Party.git
